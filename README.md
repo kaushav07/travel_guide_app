@@ -1,16 +1,34 @@
-# travel_app
+# ✈️ Travel Guide App UI
 
-A new Flutter project.
+A Flutter-based **travel guide UI application** that showcases travel information such as **hotels, flights, and places to visit** for a selected destination.  
+This project focuses only on **user interface design**, without backend or real-time data integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Purpose of the Project
 
-A few resources to get you started if this is your first Flutter project:
+- Practice multi screen Flutter UI design
+- Design travel related app layouts
+- Improve UI/UX and navigation flow
+- Build a portfolio-ready UI project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features (UI Only)
+
+- 🏨 Hotel listing UI
+- ✈️ Flight details UI
+- 📍 Places to visit UI
+- 🗺️ Destination overview screen
+- 📱 Clean and modern design
+
+> ⚠️ Note: This is a **UI only project**.  
+> All data shown is **static / demo content**.
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- Material UI widgets
